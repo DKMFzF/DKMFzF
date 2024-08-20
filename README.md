@@ -21,9 +21,9 @@
 
 <h2 align="center" style="margin=0; paddong=0"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&theme=tokyonight&card_width=535&card_height=248)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <div href="https://github.com/dkmfzf/github-readme-stats" align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&theme=tokyonight&card_width=535&card_height=248" alt="html" align="center"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10&theme=tokyonight" alt="html" align="center"/>
     <img src="https://github-readme-stats.vercel.app/api?username=dkmfzf&theme=tokyonight" alt="html" align="center"/>
 </div>
 
