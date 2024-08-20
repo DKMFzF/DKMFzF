@@ -1,6 +1,6 @@
 [![MasterHead](header.png)](https://github.com/DKMFzF)
 
-## I'm a Software Engineering Student
+## I'm a Software Engineering Student and these are the top facts about me
 - 💪 I like to understand complex things
 - 🎉 I just love music
 - ⚡ I love active recreation
@@ -9,6 +9,10 @@
 <div>
     <br>
 </div>
+
+## My soft skills
+
+## Hard skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
