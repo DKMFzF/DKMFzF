@@ -6,10 +6,6 @@
 - ⚡ I love active recreation
 - 🤹🏽 Upgrading my skills in Yandex Workshop
 
-<div>
-    <br>
-</div>
-
 ## My soft skills
 
 ## Hard skills
