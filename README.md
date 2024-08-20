@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kirill
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a Software Engineering Student
 - 💪 I like to understand complex things
 - 🎉 I just love music
 - ⚡ I study at universit
