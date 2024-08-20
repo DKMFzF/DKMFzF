@@ -22,29 +22,22 @@
         <a href="" target="_blank"><img src="https://cdn.icon-icons.com/icons2/9/PNG/96/sql_racer_gamedatabase_sql_1526.png" alt="SQL" width="40" height="40"/></a> 
     </p>
 </div>
-    
-
-## My soft skills:
-- hard work;
-- high ability to self-learn;
-- determination;
-- organization;
-- creativity;
-- responsibility;
-- ability to communicate with the customer;
-
-## I'm a Software Engineering Student and these are the top facts about me:
-- 🤹🏽 Upgrading my skills in Yandex Workshop;
-- 🎓 I'm a Software Engineering Student
-- 💪 I like to understand complex things;
-- 🎉 I just love music;
-- ⚡ I love active recreation;
 
 <div>
     <br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">My soft skills</h2>
+hard work; high ability to self-learn; determination; organization; creativity; responsibility; ability to communicate with the customer;
+
+<div>
+    <br>
+</div>
+
+<h2 align="center">My GitHub Stats</h2>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&card_width=700)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<pre>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
