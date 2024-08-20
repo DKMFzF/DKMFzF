@@ -10,10 +10,6 @@
 </p>
 
 <div>
-    <br>
-</div>
-
-<div>
     <h2 align="center">Technology stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h2>
     <p align="center"> 
         <a href="https://www.w3.org/html/" target="_blank"> 
@@ -21,10 +17,6 @@
         <a href="https://gulpjs.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_gulp_icon_130557.png" alt="Gulp" width="40" height="40"/></a> 
         <a href="" target="_blank"><img src="https://cdn.icon-icons.com/icons2/9/PNG/96/sql_racer_gamedatabase_sql_1526.png" alt="SQL" width="40" height="40"/></a> 
     </p>
-</div>
-
-<div>
-    <br>
 </div>
 
 <h2 align="center" style="margin=0; paddong=0"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
@@ -35,6 +27,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dkmfzf&theme=tokyonight" alt="html" align="center"/>
 </div>
 
+<div>
+    <br>
+    <br>
+    <br>
+</div>
 
 ![](https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png)
 
