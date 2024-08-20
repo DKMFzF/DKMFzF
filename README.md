@@ -5,6 +5,14 @@
     <a href="https://vk.com/dkmfzf" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1753/PNG/96/iconfinder-social-media-applications-32vk-4102593_113806.png" alt="Vk" width="40" height="40" /></a>
 </p>
 
+<p align="center">
+    I am a second year student at the Siberian Federal University majoring in Software Engineering 💻. At the same time, I am studying at the Yandex workshop in the direction of FullStack programmer 📚. I have experience developing applications based on C++/C#/Python. But I really want to develop in the web technology industry with a development vector for the backend part 🌐.
+</p>
+
+<div>
+    <br>
+</div>
+
 <div>
     <h2 align="center">Technology stack</h2>
     <p align="center"> 
