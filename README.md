@@ -33,8 +33,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<pre>
 
 
-<div align="left">
-    <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
-</div>
+![](https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png)
+
 
 ![](https://komarev.com/ghpvc/?username=dkmfzf)
