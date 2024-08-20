@@ -31,6 +31,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&theme=tokyonight&card_width=535&card_height=248)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<pre>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkmfzf)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![](https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png)
