@@ -2,36 +2,11 @@
 
 ## Hard skills
 <div>
-    <p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> 
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.w3schools.com/css/" target="_blank"> 
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.figma.com/" target="_blank"> 
-            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-        </a> 
-        <a href="https://flutter.dev" target="_blank"> 
-            <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-        </a> 
-        <a href="https://git-scm.com/" target="_blank"> 
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-        </a> 
+    <p align="center"> 
         <a href="https://www.w3.org/html/" target="_blank"> 
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.linux.org/" target="_blank"> 
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.photoshop.com/en" target="_blank"> 
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-        </a> 
-        <a href="https://www.python.org" target="_blank">
-            <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-        </a> 
+            <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png" alt="html" width="40" height="40"/></a><a href="https://www.w3schools.com/w3css/default.asp" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" alt="CSS" width="40" height="40"/></a><a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_sass_icon_130182.png" alt="html5" width="40" height="40"/></a><a href="https://js.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/></a>
+        <a href="https://gulpjs.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_gulp_icon_130557.png" alt="Gulp" width="40" height="40"/></a> 
+        <a href="" target="_blank"><img src="https://cdn.icon-icons.com/icons2/9/PNG/96/sql_racer_gamedatabase_sql_1526.png" alt="SQL" width="40" height="40"/></a> 
     </p>
 </div>
     
