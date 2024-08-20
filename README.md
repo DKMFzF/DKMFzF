@@ -35,9 +35,6 @@
     <br>
 </div>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ![](https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png)
 
 ![](https://komarev.com/ghpvc/?username=dkmfzf&color=green)
