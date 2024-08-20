@@ -1,7 +1,7 @@
 [![MasterHead](header.png)](https://github.com/DKMFzF)
 
-## Hard skills
 <div>
+    <h2 align="center">Technology stack</h2>
     <p align="center"> 
         <a href="https://www.w3.org/html/" target="_blank"> 
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png" alt="html" width="40" height="40"/></a><a href="https://www.w3schools.com/w3css/default.asp" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" alt="CSS" width="40" height="40"/></a><a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_sass_icon_130182.png" alt="html5" width="40" height="40"/></a><a href="https://js.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/></a>
