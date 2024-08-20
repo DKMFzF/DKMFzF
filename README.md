@@ -14,7 +14,7 @@
 </div>
 
 <div>
-    <h2 align="center">Technology stack</h2>
+    <h2 align="center">Technology stack 👾</h2>
     <p align="center"> 
         <a href="https://www.w3.org/html/" target="_blank"> 
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png" alt="html" width="40" height="40"/></a><a href="https://www.w3schools.com/w3css/default.asp" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" alt="CSS" width="40" height="40"/></a><a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_sass_icon_130182.png" alt="html5" width="40" height="40"/></a><a href="https://js.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/></a>
@@ -36,8 +36,8 @@ hard work; high ability to self-learn; determination; organization; creativity; 
 
 <h2 align="center">My GitHub Stats</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&card_width=525&card_height=248)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<pre>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&theme=tokyonight&card_width=525&card_height=248)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<pre>
 
 
 <div align="center">
