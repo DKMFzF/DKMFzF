@@ -27,13 +27,6 @@
     <br>
 </div>
 
-<h2 align="center">My soft skills</h2>
-hard work; high ability to self-learn; determination; organization; creativity; responsibility; ability to communicate with the customer;
-
-<div>
-    <br>
-</div>
-
 <h2 align="center">My GitHub Stats</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&theme=tokyonight&card_width=525&card_height=248)](https://git.io/streak-stats)
