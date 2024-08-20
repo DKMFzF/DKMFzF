@@ -36,7 +36,7 @@ hard work; high ability to self-learn; determination; organization; creativity; 
 
 <h2 align="center">My GitHub Stats</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&card_width=650)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&card_width=600)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)<pre>
 
 <div align="center">
