@@ -1,7 +1,5 @@
 [![MasterHead](header.png)](https://github.com/DKMFzF)
 
-### Hi there 👋, I'm Kirill
-
 ## I'm a Software Engineering Student
 - 💪 I like to understand complex things
 - 🎉 I just love music
