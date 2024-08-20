@@ -1,8 +1,8 @@
 [![MasterHead](header.png)](https://github.com/DKMFzF)
 
 <p align="center">
-    <a href="https://t.me/DKMFzF" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/923/PNG/96/telegram_icon-icons.com_72055.png" alt="Tg" width="40" height="40" /></a>
-    <a href="https://vk.com/dkmfzf" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1753/PNG/96/iconfinder-social-media-applications-32vk-4102593_113806.png" alt="Vk" width="40" height="40" /></a>
+    <a href="https://t.me/DKMFzF" target="blank"><img align="center" src="https://img.shields.io/badge/Tg-visit-green.svg" alt="Tg"/></a>
+    <a href="https://vk.com/dkmfzf" target="blank"><img align="center" src="https://img.shields.io/badge/Vk-visit-green.svg" alt="Vk"/></a>
 </p>
 
 <p align="center">
@@ -31,7 +31,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&theme=tokyonight&card_width=535&card_height=248)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<pre>
-
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" />
