@@ -14,7 +14,7 @@
 </div>
 
 <div>
-    <h2 align="center">Technology stack 👾</h2>
+    <h2 align="center">Technology stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h2>
     <p align="center"> 
         <a href="https://www.w3.org/html/" target="_blank"> 
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png" alt="html" width="40" height="40"/></a><a href="https://www.w3schools.com/w3css/default.asp" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" alt="CSS" width="40" height="40"/></a><a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_sass_icon_130182.png" alt="html5" width="40" height="40"/></a><a href="https://js.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/></a>
@@ -27,7 +27,7 @@
     <br>
 </div>
 
-<h2 align="center">My GitHub Stats</h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&theme=tokyonight&card_width=535&card_height=248)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<pre>
@@ -35,5 +35,4 @@
 
 ![](https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png)
 
-
-![](https://komarev.com/ghpvc/?username=dkmfzf)
+![](https://komarev.com/ghpvc/?username=dkmfzf&color=green)
