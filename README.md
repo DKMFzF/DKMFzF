@@ -24,7 +24,9 @@
 <div href="https://github.com/dkmfzf/github-readme-stats" align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=dkmfzf&theme=tokyonight&card_width=535&card_height=248" alt="html" align="center"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10&theme=tokyonight" alt="html" align="center"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=dkmfzf&theme=tokyonight" alt="html" align="center"/>
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=dkmfzf&theme=tokyonight" alt="html" align="center" />
 </div>
 
 <div>
