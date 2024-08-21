@@ -35,8 +35,4 @@
     <br>
 </div>
 
-<div align="center">
-    <img aria-hidden="true" src="https://raw.githubusercontent.com/omidnikrah/profile-activity-generator/master/demo.png" alt="backgorund image">
-</div>
-
 ![](https://komarev.com/ghpvc/?username=dkmfzf&color=green)
