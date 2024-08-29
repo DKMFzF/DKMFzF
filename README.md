@@ -1,6 +1,10 @@
 [![MasterHead](header-title.png)](https://github.com/DKMFzF)
 
 
+<p align="center">
+    <a href="https://t.me/DKMFzF" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/923/PNG/96/telegram_icon-icons.com_72055.png" alt="Tg" width="40px" height="40px" /></a>
+    <a href="https://vk.com/dkmfzf" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1753/PNG/96/iconfinder-social-media-applications-32vk-4102593_113806.png" alt="Vk" width="40px" height="40px" /></a>
+</p>
 
 <p align="center">
     I am a second year student at the Siberian Federal University majoring in Software Engineering 💻. At the same time, I am studying at the Yandex workshop in the direction of FullStack programmer 📚. I have experience developing applications based on C++/C#/Python. But I really want to develop in the web technology industry with a development vector for the backend part 🌐.
