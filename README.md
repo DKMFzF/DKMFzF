@@ -38,7 +38,7 @@
         <a href="https://www.npmjs.com/package/html-minifier" target="_blank">HTMLMinifier</a>
         <a href="https://postcss.org/" target="_blank"><img src="https://image.pngaaa.com/372/3920372-middle.png" alt="" width="40" height="40"/></a> 
     </p>
-    <h3 align="center">template engine</h3>
+    <h3 align="center">Template engine</h3>
     <p align="center"> 
         <a href="https://pugjs.org/api/reference.html" target="_blank"><img src="https://yt3.ggpht.com/ytc/AKedOLSuVZrH4D0Sm3A2NqZRIkDg5C8evXYm-OOKe2fb=s900-c-k-c0x00ffffff-no-rj" alt="Pug" width="40" height="40"/></a> 
     </p>
@@ -67,4 +67,3 @@
     <br>
     <br>
 </div>
-
