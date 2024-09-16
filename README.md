@@ -21,15 +21,35 @@
     <p align="center">
         <a href="https://www.w3.org/html/" target="_blank"> 
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png" alt="html" width="40" height="40"/></a><a href="https://www.w3schools.com/w3css/default.asp" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" alt="CSS" width="40" height="40"/></a><a href="https://js.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/></a><a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_sass_icon_130182.png" alt="html5" width="40" height="40"/></a>
+        <a href="https://developer.chrome.com/docs/devtools?hl=ru" target="_blank"><img src="https://i1.wp.com/css-tricks.com/wp-content/uploads/2018/02/chrome-devtools.jpg?fit=1200%2C600&ssl=1" alt="devTools" width="auto" height="40"/></a>
+        <a href="https://nodejs.org/api/all.html" target="_blank"><img src="https://repository-images.githubusercontent.com/537542347/81714b3f-d73f-48fa-b0f3-9ac579e85ef6" alt="nodeJs" width="auto" height="40"/></a>
     </p>
-    <h3 align="center">Task manager</h3>
+    <h3 align="center">Collectors</h3>
     <p align="center"> 
         <a href="https://gulpjs.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_gulp_icon_130557.png" alt="Gulp" width="40" height="40"/></a> 
+    </p>
+    <h3 align="center">Linter and formatters</h3>
+    <p align="center">
+        <a href="https://prettier.io/docs/en/options.html" target="_blank"><img src="https://gitlab.com/megabyte-labs/npm/plugin/prettier-plugin-package-perfection/-/avatar?width=96" alt="Prettier" width="40" height="40"/></a>
+        <a href="https://stylelint.io/user-guide/configure/" target="_blank"><img src="https://sun9-33.userapi.com/impg/yIctzXqbweyt2hxCC7OUSW2w6hFnboiyIft-Ig/uPqu6g6G2k8.jpg?size=781x748&quality=95&sign=fed1f1a72f263a142e6287c923b36315&c_uniq_tag=hlzm5xakjgqW5QcosqXiCy8_OjNYl50qrW1raQRswDc&type=album" alt="Stylelint" width="40" height="40"/></a>
+    </p>
+    <h3 align="center">Postprocessing</h3>
+    <p align="center"> 
+        <a href="https://www.npmjs.com/package/html-minifier" target="_blank">HTMLMinifier</a>
+        <a href="https://postcss.org/" target="_blank"><img src="https://image.pngaaa.com/372/3920372-middle.png" alt="" width="40" height="40"/></a> 
+    </p>
+    <h3 align="center">template engine</h3>
+    <p align="center"> 
+        <a href="https://pugjs.org/api/reference.html" target="_blank"><img src="https://yt3.ggpht.com/ytc/AKedOLSuVZrH4D0Sm3A2NqZRIkDg5C8evXYm-OOKe2fb=s900-c-k-c0x00ffffff-no-rj" alt="Pug" width="40" height="40"/></a> 
     </p>
     <h3 align="center">Web Design Tools</h3>
     <p align="center">
         <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-    </p> 
+    </p>
+    <h3 align="center">The layout method</h3>
+    <p align="center">
+        <a href="https://ru.bem.info/" target="_blank"><img src="https://achievement-images.teamtreehouse.com/badges_css_modularsass_stage02.png" alt="BEM" width="40" height="40"/></a>
+    </p>
 </div>
 
 <h2 aria-hidden="true" align="center" style="margin=0; paddong=0"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" aria-hidden="true"></h2>
