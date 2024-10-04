@@ -26,6 +26,7 @@
     <h3 align="center">Collectors</h3>
     <p align="center"> 
         <a href="https://gulpjs.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_gulp_icon_130557.png" alt="Gulp" width="40" height="40"/></a> 
+        <a href="https://webpack.js.org/" target="_blank"><img src="https://blog-arkency.imgix.net/creating-custom-heroku-buildpack-for-webpack-and-ruby-on-rails-integration/header.png?w=768&h=758&fit=max" alt="Webpack" width="40" height="40"/></a> 
     </p>
     <h3 align="center">Linter and formatters</h3>
     <p align="center">
