@@ -35,7 +35,8 @@
     </p>
     <h3 align="center">Postprocessing</h3>
     <p align="center"> 
-        <a href="https://postcss.org/" target="_blank"><img src="https://image.pngaaa.com/372/3920372-middle.png" alt="" width="40" height="40"/></a> 
+        <a href="https://postcss.org/" target="_blank"><img src="https://image.pngaaa.com/372/3920372-middle.png" alt="" width="40" height="40"/></a>
+        <a href="https://babeljs.io/" target="_blank"><img src="https://www.svgrepo.com/show/373741/light-babel2.svg" alt="" width="40" height="40"/></a> 
     </p>
     <h3 align="center">Template engine</h3>
     <p align="center"> 
