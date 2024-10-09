@@ -22,6 +22,7 @@
             <img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_html_icon_130541.png" alt="html" width="40" height="40"/></a><a href="https://www.w3schools.com/w3css/default.asp" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_css_icon_130661.png" alt="CSS" width="40" height="40"/></a><a href="https://js.org/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/96/javascript_icon_130900.png" alt="JavaScript" width="40" height="40"/></a><a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/96/file_type_sass_icon_130182.png" alt="html5" width="40" height="40"/></a>
         <a href="https://developer.chrome.com/docs/devtools?hl=ru" target="_blank"><img src="https://i1.wp.com/css-tricks.com/wp-content/uploads/2018/02/chrome-devtools.jpg?fit=1200%2C600&ssl=1" alt="devTools" width="auto" height="40"/></a>
         <a href="https://nodejs.org/api/all.html" target="_blank"><img src="https://repository-images.githubusercontent.com/537542347/81714b3f-d73f-48fa-b0f3-9ac579e85ef6" alt="nodeJs" width="auto" height="40"/></a>
+        <a href="https://barba.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/barbajs/.github/main/profile/barbajs.svg" alt="barba" width="auto" height="40"/></a>
     </p>
     <h3 align="center">Collectors</h3>
     <p align="center"> 
