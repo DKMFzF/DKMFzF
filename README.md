@@ -24,6 +24,7 @@
         <a href="https://nodejs.org/api/all.html" target="_blank"><img src="https://repository-images.githubusercontent.com/537542347/81714b3f-d73f-48fa-b0f3-9ac579e85ef6" alt="nodeJs" width="auto" height="40"/></a>
         <a href="https://www.npmjs.com/" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=a5454cd2486f0ef35af32247593eaa43d38f8473-12422391-images-thumbs&n=13" alt="npm" width="auto" height="40"/></a>
         <a href="https://barba.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/barbajs/.github/main/profile/barbajs.svg" alt="barba" width="auto" height="40"/></a>
+        <a href="https://threejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/640px-Three.js_Icon.svg.png" alt="barba" width="auto" height="40"/></a>
     </p>
     <h3 align="center">Collectors</h3>
     <p align="center"> 
