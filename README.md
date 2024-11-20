@@ -41,9 +41,6 @@
 <h2 aria-hidden="true" align="center" style="margin=0; paddong=0"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" aria-hidden="true"></h2>
 
 <div href="https://github.com/dkmfzf/github-readme-stats" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&langs_count=10&theme=tokyonight" alt="Github account statistics" align="center"/>
-    <br>
-    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=dkmfzf&theme=tokyonight" alt="Github account statistics" align="center" />
 </div>
 
