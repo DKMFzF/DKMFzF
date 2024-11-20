@@ -31,7 +31,7 @@
         <a href="https://postcss.org/" target="_blank"><img src="https://image.pngaaa.com/372/3920372-middle.png" alt="" width="40" height="40"/></a>
         <a href="https://babeljs.io/" target="_blank"><img src="https://www.svgrepo.com/show/373741/light-babel2.svg" alt="" width="40" height="40"/></a>
         <a href="https://prettier.io/docs/en/options.html" target="_blank"><img src="https://gitlab.com/megabyte-labs/npm/plugin/prettier-plugin-package-perfection/-/avatar?width=96" alt="Prettier" width="40" height="40"/></a>
-        <a href="https://stylelint.io/user-guide/configure/" target="_blank"><img src="https://sun9-33.userapi.com/impg/yIctzXqbweyt2hxCC7OUSW2w6hFnboiyIft-Ig/uPqu6g6G2k8.jpg?size=781x748&quality=95&sign=fed1f1a72f263a142e6287c923b36315&c_uniq_tag=hlzm5xakjgqW5QcosqXiCy8_OjNYl50qrW1raQRswDc&type=album" alt="Stylelint" width="40" height="40"/></a>
+        <a href="https://eslint.org/" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=e48724ea3ae6379f2e77911eac0c6d6c6cfb9589-10808983-images-thumbs&ref=rim&n=33&w=228&h=200" alt="ESlint" width="45" height="40"/></a>
         <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
         <a href="https://ru.bem.info/" target="_blank"><img src="https://achievement-images.teamtreehouse.com/badges_css_modularsass_stage02.png" alt="BEM" width="40" height="40"/></a>
     </p>
