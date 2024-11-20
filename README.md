@@ -29,7 +29,8 @@
         <a href="https://webpack.js.org/" target="_blank"><img src="https://blog-arkency.imgix.net/creating-custom-heroku-buildpack-for-webpack-and-ruby-on-rails-integration/header.png?w=768&h=758&fit=max" alt="Webpack" width="40" height="40"/></a>
         <a href="https://vite.dev/" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=b471ca3e2e80915349a5c5834da5f90e5e0f6453-8389316-images-thumbs&n=13" alt="vite" width="40" height="40"/></a> 
         <a href="https://postcss.org/" target="_blank"><img src="https://image.pngaaa.com/372/3920372-middle.png" alt="" width="40" height="40"/></a>
-        <a href="https://babeljs.io/" target="_blank"><img src="https://www.svgrepo.com/show/373741/light-babel2.svg" alt="" width="40" height="40"/></a>
+        <a href="https://babeljs.io/" target="_blank"><img src="https://www.svgrepo.com/show/373741/light-babel2.svg" alt="Babel" width="40" height="40"/></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img src="https://res.cloudinary.com/dcss55nem/image/upload/v1701032021/15_pzbsyb.png" alt="Tailwind" width="45" height="40"/></a>
         <a href="https://prettier.io/docs/en/options.html" target="_blank"><img src="https://gitlab.com/megabyte-labs/npm/plugin/prettier-plugin-package-perfection/-/avatar?width=96" alt="Prettier" width="40" height="40"/></a>
         <a href="https://eslint.org/" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=e48724ea3ae6379f2e77911eac0c6d6c6cfb9589-10808983-images-thumbs&ref=rim&n=33&w=228&h=200" alt="ESlint" width="45" height="40"/></a>
         <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
