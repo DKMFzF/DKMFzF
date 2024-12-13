@@ -42,6 +42,7 @@
 
 <div href="https://github.com/dkmfzf/github-readme-stats" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dkmfzf&theme=tokyonight" alt="Github account statistics" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkmfzf&theme=tokyonight" alt="top-langs statistics" align="center" />
 </div>
 
 <div>
