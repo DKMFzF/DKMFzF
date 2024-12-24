@@ -2,10 +2,6 @@
     <img src="./header-title.png" alt="html" width="100%" height="100%"/>
 </p>
 
-<p align="center">
-    I am a second year student at the Siberian Federal University majoring in Software Engineering 💻. At the same time, I am studying at the Yandex workshop in the direction of FullStack programmer 📚. I have experience developing applications based on C++/C#/Python. But I really want to develop in the web technology industry with a development vector for the backend part 🌐.
-</p>
-
 <div>
     <h2 align="center">Independent skills from the IT direction <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
