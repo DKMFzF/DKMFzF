@@ -8,7 +8,7 @@
         <a href="" target="_blank"><img src="https://i.pinimg.com/originals/27/45/30/2745305c9702bceee2525cc24e1d00c2.png" alt="SQL" width="65" height="40"/></a>
         <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/></a>
     </p>
-    <h2 align="center">Web-stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
+    <h2 align="center">Web-stack (Node.js) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
         <a href="https://www.w3.org/html/" target="_blank"> 
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/2048px-HTML5_logo_black.svg.png" alt="html" width="40" height="40"/></a><a href="https://www.w3schools.com/w3css/default.asp" target="_blank"><img src="https://gas-kvas.com/uploads/posts/2023-02/1675463198_gas-kvas-com-p-fonovii-risunok-v-css3-3.png" alt="CSS" width="30" height="40"/></a><a href="https://js.org/" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=db0607fc2e5f4c53dce85879e2e5b56bf0867961-4903071-images-thumbs&n=13" alt="JavaScript" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="html5" width="40" height="40"/></a><a href="https://sass-lang.com/" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=70377ee9f5cbc6f3f68d22dc45e1cfc38c656594-5555892-images-thumbs&n=13" alt="SCSS" width="40" height="40"/></a>
