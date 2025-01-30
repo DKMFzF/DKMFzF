@@ -43,9 +43,3 @@
       <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkmfzf&theme=transparent" alt='Profile'/>
     </div>
 </div>
-
-<div>
-    <br>
-    <br>
-    <br>
-</div>
