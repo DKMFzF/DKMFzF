@@ -17,7 +17,6 @@
         <a href="https://www.npmjs.com/" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=a5454cd2486f0ef35af32247593eaa43d38f8473-12422391-images-thumbs&n=13" alt="npm" width="auto" height="40"/></a>
         <a href="https://barba.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/barbajs/.github/main/profile/barbajs.svg" alt="barba" width="auto" height="40"/></a>
         <a href="https://threejs.org/" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=5e2ca03a72f4e98de4d1006ca88cd1a4_sr-4120244-images-thumbs&n=13" alt="three.js" width="auto" height="40"/></a>
-        <a href="https://www.php.net/" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/256_Php-1024.png" alt="php" width="auto" height="40"/></a>
         <a href="https://gulpjs.com/" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=f66abb048f447bdedc90370cca1a6beab314e354-5232475-images-thumbs&n=13" alt="Gulp" width="40" height="40"/></a> 
         <a href="https://webpack.js.org/" target="_blank"><img src="https://blog-arkency.imgix.net/creating-custom-heroku-buildpack-for-webpack-and-ruby-on-rails-integration/header.png?w=768&h=758&fit=max" alt="Webpack" width="40" height="40"/></a>
         <a href="https://vite.dev/" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=b471ca3e2e80915349a5c5834da5f90e5e0f6453-8389316-images-thumbs&n=13" alt="vite" width="40" height="40"/></a> 
