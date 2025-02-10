@@ -1,4 +1,6 @@
-
+<p>
+    <img src="./header-title.png" alt="html" width="100%" height="100%"/>
+</p>
 
 <div>
     <h2 align="center">Independent skills from the IT direction <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
