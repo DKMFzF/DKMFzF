@@ -5,10 +5,10 @@
 <div>
     <h2 align="center">Independent skills from the IT direction <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
-        <a href="" target="_blank"><img src="./pngwing.com (1).png" alt="SQL" height="40"/></a>
-        <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/></a>
+        <a href="" target="_blank"><img src="./pngwing.com (1).png" alt="SQL" height="60"/></a>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="60"/></a>
     </p>
-    <h2 align="center">Frontend-stack (main)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
+    <h2 align="center">Frontend-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
         <a href="https://www.w3.org/html/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/2048px-HTML5_logo_black.svg.png" alt="html" height="60"/></a>
         <a href="https://www.w3schools.com/w3css/default.asp" target="_blank"><img src="https://gas-kvas.com/uploads/posts/2023-02/1675463198_gas-kvas-com-p-fonovii-risunok-v-css3-3.png" alt="CSS" height="60"/></a>
@@ -18,22 +18,22 @@
         <a href="https://angular.dev/" target="_blank"><img src="./pngwing.com (7).png" alt="angular" height="60"/></a>
         <a href="https://webpack.js.org/" target="_blank"><img src="./pngwing.com (8).png" alt="webpack" height="60"/></a>
     </p>
-    <h6 align="center">Independent skills from the IT direction</h6>
+    <h6 align="center">Sub-Main frontend skills</h6>
     <p align="center">
-        <a href=https://vite.dev/" target="_blank"><img src="./Vite.png" alt="" height="30"/></a>
-        <a href="" target="_blank"><img src="" alt="" height="30"/></a>
-        <a href="" target="_blank"><img src="" alt="" height="30"/></a>
-        <a href="" target="_blank"><img src="" alt="" height="30"/></a>
-        <a href="" target="_blank"><img src="" alt="" height="30"/></a>
+        <a href=https://vite.dev/" target="_blank"><img src="./Vite.png" alt="vite" height="30"/></a>
+        <a href="https://gulpjs.com/" target="_blank"><img src="./pngwing.com (9).png" alt="gulp" height="30"/></a>
+        <a href="https://gsap.com/" target="_blank"><img src="./pngwing.com (10).png" alt="gsap" height="30"/></a>
+        <a href="https://threejs.org/" target="_blank"><img src="https://repository-images.githubusercontent.com/239984154/0841d800-4d40-11ea-82b9-cc5a6f9a22f4" alt="three.js" height="30"/></a>
+        <a href="https://github.com/barbajs/barba" target="_blank"><img src="https://raw.githubusercontent.com/barbajs/.github/main/profile/barbajs.svg" alt="barba" height="30"/></a>
         <a href="" target="_blank"><img src="" alt="" height="30"/></a>
         <a href="" target="_blank"><img src="" alt="" height="30"/></a>
     </p>
-    <h2 align="center">Backand-stack (main)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
+    <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" aria-hidden="true"> </h2>
     <p align="center">
-        <a href="https://nodejs.org/api/all.html" target="_blank"><img src="https://repository-images.githubusercontent.com/537542347/81714b3f-d73f-48fa-b0f3-9ac579e85ef6" alt="nodeJs" width="auto" height="40"/></a>
+        <a href="https://nodejs.org/api/all.html" target="_blank"><img src="https://repository-images.githubusercontent.com/537542347/81714b3f-d73f-48fa-b0f3-9ac579e85ef6" alt="nodeJs" width="auto" height="60"/></a>
 <!--         <a href="https://www.php.net/" target="_blank"><img src="./pngwing.com (5).png" alt="php" width="auto" height="40"/></a> -->
-        <a href="https://www.python.org/" target="_blank"><img src="./pngwing.com.png" alt="python" width="auto" height="40"/></a>
-        <a href="https://go.dev/" target="_blank"><img src="./pngwing.com (6).png" alt="go" width="auto" height="40"/></a>
+        <a href="https://www.python.org/" target="_blank"><img src="./pngwing.com.png" alt="python" width="auto" height="60"/></a>
+        <a href="https://go.dev/" target="_blank"><img src="./pngwing.com (6).png" alt="go" width="auto" height="60"/></a>
     </p>
 </div>
 
