@@ -16,9 +16,9 @@
     <h2 align="center">web-backand-stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
         <a href="https://nodejs.org/api/all.html" target="_blank"><img src="https://repository-images.githubusercontent.com/537542347/81714b3f-d73f-48fa-b0f3-9ac579e85ef6" alt="nodeJs" width="auto" height="40"/></a>
-        <a href="" target="_blank"><img src="./pngwing.com (5).png" alt="php" width="auto" height="40"/></a>
-        <a href="" target="_blank"><img src="./pngwing.com.png" alt="python" width="auto" height="40"/></a>
-        <a href="" target="_blank"><img src="https://avatars.mds.yandex.net/i?id=c817f1270c9cf8b06295c5443a9b2ca7546dd696-8186552-images-thumbs&n=13" alt="python" width="auto" height="40"/></a>
+        <a href="https://www.php.net/" target="_blank"><img src="./pngwing.com (5).png" alt="php" width="auto" height="40"/></a>
+        <a href="https://www.python.org/" target="_blank"><img src="./pngwing.com.png" alt="python" width="auto" height="40"/></a>
+        <a href="https://go.dev/" target="_blank"><img src="./pngwing.com (6).png" alt="go" width="auto" height="40"/></a>
     </p>
 </div>
 
