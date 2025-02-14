@@ -20,18 +20,19 @@
     </p>
     <h6 align="center">Sub-Main frontend skills</h6>
     <p align="center">
-        <a href=https://vite.dev/" target="_blank"><img src="./Vite.png" alt="vite" height="30"/></a>
-        <a href="https://gulpjs.com/" target="_blank"><img src="./pngwing.com (9).png" alt="gulp" height="30"/></a>
-        <a href="https://gsap.com/" target="_blank"><img src="./pngwing.com (10).png" alt="gsap" height="30"/></a>
-        <a href="https://threejs.org/" target="_blank"><img src="https://repository-images.githubusercontent.com/239984154/0841d800-4d40-11ea-82b9-cc5a6f9a22f4" alt="three.js" height="30"/></a>
-        <a href="https://github.com/barbajs/barba" target="_blank"><img src="https://raw.githubusercontent.com/barbajs/.github/main/profile/barbajs.svg" alt="barba" height="30"/></a>
-        <a href="https://tailwindcss.com/" target="_blank"><img src="Tailwindcss-Icon--Streamline-Svg-Logos.png" alt="tailwind" height="30"/></a>
-        <a href="https://getbootstrap.com/" target="_blank"><img src="./pngwing.com (12).png" alt="bootstrap" height="30"/></a>
-        <a href="https://www.figma.com/" target="_blank"><img src="./pngwing.com (13).png" alt="figma" height="30"/></a>
-        <a href="https://ru.bem.info/" target="_blank"><img src="https://achievement-images.teamtreehouse.com/badges_css_modularsass_stage02.png" alt="bem" height="30"/></a>
-        <a href="https://eslint.org/" target="_blank"><img src="./pngwing.com (14).png" alt="eslint" height="30"/></a>
-        <a href="https://prettier.io/" target="_blank"><img src="https://github.com/prettier/prettier-logo/blob/master/images/prettier-icon-dark.png?raw=true" alt="prettier" height="30"/></a>
-        <a href="https://stylelint.io/" target="_blank"><img src="./Stylelint.png" alt="stylelint" height="30"/></a>
+        <a href=https://vite.dev/" target="_blank"><img src="./Vite.png" alt="vite" height="28"/></a>
+        <a href="https://gulpjs.com/" target="_blank"><img src="./pngwing.com (9).png" alt="gulp" height="28"/></a>
+        <a href="https://gsap.com/" target="_blank"><img src="./pngwing.com (10).png" alt="gsap" height="28"/></a>
+        <a href="https://threejs.org/" target="_blank"><img src="https://repository-images.githubusercontent.com/239984154/0841d800-4d40-11ea-82b9-cc5a6f9a22f4" alt="three.js" height="28"/></a>
+        <a href="https://github.com/barbajs/barba" target="_blank"><img src="https://raw.githubusercontent.com/barbajs/.github/main/profile/barbajs.svg" alt="barba" height="28"/></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img src="Tailwindcss-Icon--Streamline-Svg-Logos.png" alt="tailwind" height="28"/></a>
+        <a href="https://getbootstrap.com/" target="_blank"><img src="./pngwing.com (12).png" alt="bootstrap" height="28"/></a>
+        <a href="https://www.figma.com/" target="_blank"><img src="./pngwing.com (13).png" alt="figma" height="28"/></a>
+        <a href="https://ru.bem.info/" target="_blank"><img src="https://achievement-images.teamtreehouse.com/badges_css_modularsass_stage02.png" alt="bem" height="28"/></a>
+        <a href="https://eslint.org/" target="_blank"><img src="./pngwing.com (14).png" alt="eslint" height="28"/></a>
+        <a href="https://prettier.io/" target="_blank"><img src="https://github.com/prettier/prettier-logo/blob/master/images/prettier-icon-dark.png?raw=true" alt="prettier" height="28"/></a>
+        <a href="https://stylelint.io/" target="_blank"><img src="./Stylelint.png" alt="stylelint" height="28"/></a>
+        <a href="https://babeljs.io/" target="_blank"><img src="./babel-seeklogo.png" alt="babel" height="28"/></a>
     </p>
     <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
