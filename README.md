@@ -25,7 +25,7 @@
         <a href="https://gsap.com/" target="_blank"><img src="./pngwing.com (10).png" alt="gsap" height="30"/></a>
         <a href="https://threejs.org/" target="_blank"><img src="https://repository-images.githubusercontent.com/239984154/0841d800-4d40-11ea-82b9-cc5a6f9a22f4" alt="three.js" height="30"/></a>
         <a href="https://github.com/barbajs/barba" target="_blank"><img src="https://raw.githubusercontent.com/barbajs/.github/main/profile/barbajs.svg" alt="barba" height="30"/></a>
-        <a href="" target="_blank"><img src="" alt="" height="30"/></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img src="Tailwindcss-Icon--Streamline-Svg-Logos.png" alt="tailwind" height="30"/></a>
         <a href="" target="_blank"><img src="" alt="" height="30"/></a>
     </p>
     <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" aria-hidden="true"> </h2>
