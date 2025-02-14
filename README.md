@@ -29,6 +29,9 @@
         <a href="https://getbootstrap.com/" target="_blank"><img src="./pngwing.com (12).png" alt="bootstrap" height="30"/></a>
         <a href="https://www.figma.com/" target="_blank"><img src="./pngwing.com (13).png" alt="figma" height="30"/></a>
         <a href="https://ru.bem.info/" target="_blank"><img src="https://achievement-images.teamtreehouse.com/badges_css_modularsass_stage02.png" alt="bem" height="30"/></a>
+        <a href="https://eslint.org/" target="_blank"><img src="./pngwing.com (14).png" alt="eslint" height="30"/></a>
+        <a href="https://prettier.io/" target="_blank"><img src="https://github.com/prettier/prettier-logo/blob/master/images/prettier-icon-dark.png?raw=true" alt="prettier" height="30"/></a>
+        <a href="https://stylelint.io/" target="_blank"><img src="" alt="stylelint" height="30"/></a>
     </p>
     <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
