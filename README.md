@@ -20,7 +20,7 @@
     </p>
     <h6 align="center">Independent skills from the IT direction</h6>
     <p align="center">
-        <a href=https://vite.dev/" target="_blank"><img src="" alt="" height="30"/></a>
+        <a href=https://vite.dev/" target="_blank"><img src="./Vite.png" alt="" height="30"/></a>
         <a href="" target="_blank"><img src="" alt="" height="30"/></a>
         <a href="" target="_blank"><img src="" alt="" height="30"/></a>
         <a href="" target="_blank"><img src="" alt="" height="30"/></a>
