@@ -5,7 +5,7 @@
 <div>
     <h2 align="center">Independent skills from the IT direction <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
-        <a href="" target="_blank"><img src="https://i.pinimg.com/originals/27/45/30/2745305c9702bceee2525cc24e1d00c2.png" alt="SQL" width="65" height="40"/></a>
+        <a href="" target="_blank"><img src="./pngwing.com (1).png" alt="SQL" height="40"/></a>
         <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/></a>
     </p>
     <h2 align="center">web-frontend-stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
