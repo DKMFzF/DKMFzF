@@ -8,15 +8,20 @@
         <a href="" target="_blank"><img src="./pngwing.com (1).png" alt="SQL" height="40"/></a>
         <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/></a>
     </p>
-    <h2 align="center">web-frontend-stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
+    <h2 align="center">main-web-frontend-stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
-        <a href="https://www.w3.org/html/" target="_blank"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/2048px-HTML5_logo_black.svg.png" alt="html" width="40" height="40"/></a><a href="https://www.w3schools.com/w3css/default.asp" target="_blank"><img src="https://gas-kvas.com/uploads/posts/2023-02/1675463198_gas-kvas-com-p-fonovii-risunok-v-css3-3.png" alt="CSS" width="30" height="40"/></a><a href="https://js.org/" target="_blank"><img src="./pngwing.com (2).png" alt="JavaScript" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="html5" width="40" height="40"/></a><a href="https://sass-lang.com/" target="_blank"><img src="./pngwing.com (4).png" alt="SCSS" height="40"/></a>
+        <a href="https://www.w3.org/html/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/2048px-HTML5_logo_black.svg.png" alt="html" width="40" height="40"/></a>
+        <a href="https://www.w3schools.com/w3css/default.asp" target="_blank"><img src="https://gas-kvas.com/uploads/posts/2023-02/1675463198_gas-kvas-com-p-fonovii-risunok-v-css3-3.png" alt="CSS" width="30" height="40"/></a>
+        <a href="https://js.org/" target="_blank"><img src="./pngwing.com (2).png" alt="JavaScript" height="40"/></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="html5" width="40" height="40"/></a>
+        <a href="https://sass-lang.com/" target="_blank"><img src="./pngwing.com (4).png" alt="SCSS" height="40"/></a>
+        <a href="https://angular.dev/" target="_blank"><img src="./pngwing.com (7).png" alt="angular" height="40"/></a>
+        <a href="https://webpack.js.org/" target="_blank"><img src="./pngwing.com (8).png" alt="webpack" height="40"/></a>
     </p>
-    <h2 align="center">web-backand-stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
+    <h2 align="center">main-web-backand-stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
         <a href="https://nodejs.org/api/all.html" target="_blank"><img src="https://repository-images.githubusercontent.com/537542347/81714b3f-d73f-48fa-b0f3-9ac579e85ef6" alt="nodeJs" width="auto" height="40"/></a>
-        <a href="https://www.php.net/" target="_blank"><img src="./pngwing.com (5).png" alt="php" width="auto" height="40"/></a>
+<!--         <a href="https://www.php.net/" target="_blank"><img src="./pngwing.com (5).png" alt="php" width="auto" height="40"/></a> -->
         <a href="https://www.python.org/" target="_blank"><img src="./pngwing.com.png" alt="python" width="auto" height="40"/></a>
         <a href="https://go.dev/" target="_blank"><img src="./pngwing.com (6).png" alt="go" width="auto" height="40"/></a>
     </p>
