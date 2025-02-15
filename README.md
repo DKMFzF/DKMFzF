@@ -3,11 +3,6 @@
 </p>
 
 <div>
-    <h2 align="center">Independent skills from the IT direction <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
-    <p align="center">
-        <a href="" target="_blank"><img src="./pngwing.com (1).png" alt="SQL" height="60"/></a>
-        <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="60"/></a>
-    </p>
     <h2 align="center">Frontend-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
         <a href="https://www.w3.org/html/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/2048px-HTML5_logo_black.svg.png" alt="html" height="60"/></a>
@@ -40,6 +35,11 @@
 <!--         <a href="https://www.php.net/" target="_blank"><img src="./pngwing.com (5).png" alt="php" width="auto" height="40"/></a> -->
         <a href="https://www.python.org/" target="_blank"><img src="./pngwing.com.png" alt="python" width="auto" height="60"/></a>
         <a href="https://go.dev/" target="_blank"><img src="./pngwing.com (6).png" alt="go" width="auto" height="60"/></a>
+    </p>
+    <h2 align="center">Other skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
+    <p align="center">
+        <a href="" target="_blank"><img src="./pngwing.com (1).png" alt="SQL" height="60"/></a>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="60"/></a>
     </p>
 </div>
 
