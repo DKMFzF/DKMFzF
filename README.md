@@ -15,48 +15,33 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=30d5c8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!" alt="Welcome Typing Animation" />
-</p>
+<div>
+  
+</div>
 
 <div>
     <h2 align="center">Frontend-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
-        <a href="https://www.w3.org/html/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/HTML5_logo_black.svg/2048px-HTML5_logo_black.svg.png" alt="html" height="60"/></a>
-        <a href="https://www.w3schools.com/w3css/default.asp" target="_blank"><img src="https://gas-kvas.com/uploads/posts/2023-02/1675463198_gas-kvas-com-p-fonovii-risunok-v-css3-3.png" alt="CSS" height="60"/></a>
-        <a href="https://js.org/" target="_blank"><img src="./pngwing.com (2).png" alt="JavaScript" height="60"/></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" alt="html5" height="60"/></a>
-        <a href="https://sass-lang.com/" target="_blank"><img src="./pngwing.com (4).png" alt="SCSS" height="60"/></a>
-        <a href="https://angular.dev/" target="_blank"><img src="./pngwing.com (7).png" alt="angular" height="60"/></a>
-        <a href="https://webpack.js.org/" target="_blank"><img src="./pngwing.com (8).png" alt="webpack" height="60"/></a>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,scss,angular,webpack" height="60"/>
     </p>
     <h6 align="center">Sub-Main frontend skills</h6>
     <p align="center">
-        <a href=https://vite.dev/" target="_blank"><img src="./Vite.png" alt="vite" height="28"/></a>
-        <a href="https://gulpjs.com/" target="_blank"><img src="./pngwing.com (9).png" alt="gulp" height="28"/></a>
+        <img src="https://skillicons.dev/icons?i=vite,gulp,threejs,tailwind,bootstrap,figma,babel" height="28"/>
         <a href="https://gsap.com/" target="_blank"><img src="./pngwing.com (10).png" alt="gsap" height="28"/></a>
-        <a href="https://threejs.org/" target="_blank"><img src="https://repository-images.githubusercontent.com/239984154/0841d800-4d40-11ea-82b9-cc5a6f9a22f4" alt="three.js" height="28"/></a>
         <a href="https://github.com/barbajs/barba" target="_blank"><img src="https://raw.githubusercontent.com/barbajs/.github/main/profile/barbajs.svg" alt="barba" height="28"/></a>
-        <a href="https://tailwindcss.com/" target="_blank"><img src="Tailwindcss-Icon--Streamline-Svg-Logos.png" alt="tailwind" height="28"/></a>
-        <a href="https://getbootstrap.com/" target="_blank"><img src="./pngwing.com (12).png" alt="bootstrap" height="28"/></a>
-        <a href="https://www.figma.com/" target="_blank"><img src="./pngwing.com (13).png" alt="figma" height="28"/></a>
         <a href="https://ru.bem.info/" target="_blank"><img src="https://achievement-images.teamtreehouse.com/badges_css_modularsass_stage02.png" alt="bem" height="28"/></a>
         <a href="https://eslint.org/" target="_blank"><img src="./pngwing.com (14).png" alt="eslint" height="28"/></a>
         <a href="https://prettier.io/" target="_blank"><img src="https://github.com/prettier/prettier-logo/blob/master/images/prettier-icon-dark.png?raw=true" alt="prettier" height="28"/></a>
         <a href="https://stylelint.io/" target="_blank"><img src="./Stylelint.png" alt="stylelint" height="28"/></a>
-        <a href="https://babeljs.io/" target="_blank"><img src="./babel-seeklogo.png" alt="babel" height="28"/></a>
     </p>
     <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
-        <a href="https://nodejs.org/api/all.html" target="_blank"><img src="https://repository-images.githubusercontent.com/537542347/81714b3f-d73f-48fa-b0f3-9ac579e85ef6" alt="nodeJs" width="auto" height="60"/></a>
-<!--         <a href="https://www.php.net/" target="_blank"><img src="./pngwing.com (5).png" alt="php" width="auto" height="40"/></a> -->
-        <a href="https://www.python.org/" target="_blank"><img src="./pngwing.com.png" alt="python" width="auto" height="60"/></a>
-        <a href="https://go.dev/" target="_blank"><img src="./pngwing.com (6).png" alt="go" width="auto" height="60"/></a>
+        <img src="https://skillicons.dev/icons?i=nodejs,py,go" height="60"/>
     </p>
     <h2 align="center">Other skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github" height="60"/>
         <a href="" target="_blank"><img src="./pngwing.com (1).png" alt="SQL" height="60"/></a>
-        <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="60"/></a>
     </p>
 </div>
 
@@ -65,7 +50,7 @@
 <div href="https://github.com/dkmfzf/github-readme-stats" align="center">
     <div align="center">
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dkmfzf&theme=transparent" height="180em" alt="Stats"/>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkmfzf&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css,html,pug,scss" alt="Top Languages"/>
+<!--       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkmfzf&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css,html,pug,scss" alt="Top Languages"/> -->
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dkmfzf&theme=transparent&exclude=html,CSS,SCSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dkmfzf&theme=transparent&exclude=html,CSS,SCSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
 <!--       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dkmfzf&theme=transparent&utcOffset=7.00" height="180em" alt="Time Graph"/> -->
