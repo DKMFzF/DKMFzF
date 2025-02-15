@@ -1,6 +1,13 @@
-<p>
-    <img src="./header-title.png" alt="html" width="100%" height="100%"/>
-</p>
+<!-- <p> -->
+<!--     <img src="./header-title.png" alt="html" width="100%" height="100%"/> -->
+<!-- </p> -->
+<div align="center">
+
+<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
+![look](https://user-images.githubusercontent.com/96011603/211858547-fafd92a4-b773-4c46-94d8-518ff3ce5036.gif)
+
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Kirill%20Doroshev%20(DkMfzf)&section=header&reversal=false)    
+
 
 <div>
     <h2 align="center">Frontend-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
@@ -54,4 +61,7 @@
       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dkmfzf&theme=transparent&utcOffset=7.00" height="180em" alt="Time Graph"/>
       <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkmfzf&theme=transparent" alt='Profile'/>
     </div>
+</div>
+
+![look](https://user-images.githubusercontent.com/96011603/211858547-fafd92a4-b773-4c46-94d8-518ff3ce5036.gif)
 </div>
