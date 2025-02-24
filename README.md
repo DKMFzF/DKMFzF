@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dkmfzf&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <a href="mailto:dorohev.kir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dorohev.kir@gmail.com-green?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:flim.win@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-flim.win@yandex.ru-green?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
