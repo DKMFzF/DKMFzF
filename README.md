@@ -6,7 +6,7 @@
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
 ![look](https://user-images.githubusercontent.com/96011603/211858547-fafd92a4-b773-4c46-94d8-518ff3ce5036.gif)
 
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Hi%20👋,%20I'm%20Kirill%20Doroshev%20&section=header&reversal=false&fontSize=45)    
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=СДВГ%20➕%20Аутизм%20&section=header&reversal=false&fontSize=45)    
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dkmfzf&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
