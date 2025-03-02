@@ -41,7 +41,7 @@
     </p>
     <h2 align="center">Other skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github" height="60"/>
+        <img src="https://skillicons.dev/icons?i=git,github,docker" height="60"/>
         <a href="" target="_blank"><img src="./pngwing.com (1).png" alt="SQL" height="60"/></a>
     </p>
 </div>
