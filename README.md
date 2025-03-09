@@ -37,12 +37,11 @@
     </p> -->
     <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,py,go" height="60"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,go,redis,kafka" height="60"/>
     </p>
     <h2 align="center">Other skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,docker" height="60"/>
-        <a href="" target="_blank"><img src="./pngwing.com (1).png" alt="SQL" height="60"/></a>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,postgres" height="60"/>
     </p>
 </div>
 
