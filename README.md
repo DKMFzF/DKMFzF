@@ -25,7 +25,7 @@
     <p align="center">
         <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,scss,angular,webpack" height="60"/>
     </p>
-    <h6 align="center">Sub-Main frontend skills</h6>
+<!--     <h6 align="center">Sub-Main frontend skills</h6>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=vite,gulp,threejs,tailwind,bootstrap,figma,babel" height="28"/>
         <a href="https://gsap.com/" target="_blank"><img src="./pngwing.com (10).png" alt="gsap" height="28"/></a>
@@ -34,7 +34,7 @@
         <a href="https://eslint.org/" target="_blank"><img src="./pngwing.com (14).png" alt="eslint" height="28"/></a>
         <a href="https://prettier.io/" target="_blank"><img src="https://github.com/prettier/prettier-logo/blob/master/images/prettier-icon-dark.png?raw=true" alt="prettier" height="28"/></a>
         <a href="https://stylelint.io/" target="_blank"><img src="./Stylelint.png" alt="stylelint" height="28"/></a>
-    </p>
+    </p> -->
     <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=nodejs,py,go" height="60"/>
