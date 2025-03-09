@@ -23,7 +23,7 @@
 <div>
     <h2 align="center">Frontend-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,scss,angular,webpack" height="60"/>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,scss,react,webpack" height="60"/>
     </p>
 <!--     <h6 align="center">Sub-Main frontend skills</h6>
     <p align="center">
