@@ -35,7 +35,7 @@
     </p> -->
     <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,py,django" height="60"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/>
     </p>
     <h2 align="center">Other skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
