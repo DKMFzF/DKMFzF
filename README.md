@@ -8,9 +8,15 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸&fontSize=52)    
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dkmfzf&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dkmfzf&label=Profile%20views&color=green&style=flat-square" alt="Profile Views" />
   <a href="mailto:flim.win@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-flim.win@yandex.ru-green?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-flim.win@yandex.ru-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/DKMFzF">
+    <img src="https://img.shields.io/badge/tg-@DKMFzF-lightblue?style=flat-square&logo=tg&logoColor=white" alt="tg" />
+  </a>
+  <a href="https://vk.com/dkmfzf">
+    <img src="https://img.shields.io/badge/vk-dkmfzf-blue?style=flat-square&logo=tg&logoColor=white" alt="tg" />
   </a>
 </p>
 
