@@ -4,7 +4,10 @@
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
 ![look](https://user-images.githubusercontent.com/96011603/211858547-fafd92a4-b773-4c46-94d8-518ff3ce5036.gif)
 
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸&fontSize=52)    
+
+<!-- ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸&fontSize=52)    -->
+
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Node.js%20Developer&fontSize=52)    
 
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=dkmfzf&label=Profile%20views&color=green&style=plastic)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:flim.win@yandex.ru)
