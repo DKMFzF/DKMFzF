@@ -40,9 +40,9 @@
         <img src="https://skillicons.dev/icons?i=git,github,docker,postman,postgres,redis,figma" height="60"/>
 <!--       kafka -->
     </p>
-    <h2 align="center">Soft skills <img src="https://media1.tenor.com/m/5lzF6w9jqJIAAAAC/very-soft-michael-hultquist.gif" width="40" aria-hidden="true"> </h2>
+    <h2 align="center"> </h2>
       <p align="center">
-        <img src=""/>
+        <img src="soft-skills.png"/>
       </p>
 </div>
 
