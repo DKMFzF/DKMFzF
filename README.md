@@ -45,7 +45,7 @@
         <picture>
 <!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
           <source srcset="soft-skills-dark.png" media="(prefers-color-scheme: light)">
-          <img src="soft-skills-dark.png" alt="Logo">
+          <img src="soft-skills.png" alt="Logo">
         </picture>
       </p>
 </div>
