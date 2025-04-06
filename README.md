@@ -37,8 +37,13 @@
     </p>
     <h2 align="center">Other skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,postgres,redis,kafka" height="60"/>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,postgres,redis,figma" height="60"/>
+<!--       kafka -->
     </p>
+    <h2 align="center">Soft skills <img src="https://media1.tenor.com/m/5lzF6w9jqJIAAAAC/very-soft-michael-hultquist.gif" width="40" aria-hidden="true"> </h2>
+      <p align="center">
+        <img src=""/>
+      </p>
 </div>
 
 <h2 aria-hidden="true" align="center" style="margin=0; paddong=0"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" aria-hidden="true"></h2>
