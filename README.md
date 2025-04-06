@@ -1,4 +1,3 @@
-
 <div align="center">
   
 <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" align="left"> <br>
@@ -42,7 +41,12 @@
     </p>
     <h2 align="center"> </h2>
       <p align="center">
-        <img src="soft-skills.png"/>
+<!--         <img src="soft-skills.png"/> -->
+        <picture>
+<!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
+          <source srcset="soft-skills-dark.png" media="(prefers-color-scheme: light)">
+          <img src="soft-skills-dark.png" alt="Logo">
+        </picture>
       </p>
 </div>
 
