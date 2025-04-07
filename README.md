@@ -21,10 +21,9 @@
 <!--         <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,scss,react,webpack" height="60"/> -->
       <picture>
 <!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
-<!--           <source srcset="soft-skills-dark.png" media="(prefers-color-scheme: light)"> -->
-<!--           <img src="frontend-stack.png" alt="Logo" style="width:50%;"> -->
+          <source srcset="soft-skills-dark.png" media="(prefers-color-scheme: light)">
+          <img src="frontend-stack.png" alt="Logo">
         </picture>
-      <img src="frontend-stack.png" alt="Logo" style="width:80%;">
     </p>
 <!--     <h6 align="center">Sub-Main frontend skills</h6>
     <p align="center">
