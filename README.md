@@ -4,7 +4,7 @@
 ![look](https://user-images.githubusercontent.com/96011603/211858547-fafd92a4-b773-4c46-94d8-518ff3ce5036.gif)
 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸&fontSize=52)
+![header](https://capsule-render.vercel.a/pp/api?type=rounded&height=200&color=gradient&text=°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸&fontSize=52)
 
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=dkmfzf&label=Profile%20views&color=green&style=plastic)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:flim.win@yandex.ru)
@@ -60,18 +60,18 @@
       </p>
 </div>
 
-<h2 aria-hidden="true" align="center" style="margin=0; paddong=0"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" aria-hidden="true"></h2>
+<!-- <h2 aria-hidden="true" align="center" style="margin=0; paddong=0"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" aria-hidden="true"></h2> -->
 
-<div href="https://github.com/dkmfzf/github-readme-stats" align="center">
-    <div align="center">
+<!-- <div href="https://github.com/dkmfzf/github-readme-stats" align="center"> -->
+<!--     <div align="center"> -->
 <!--       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dkmfzf&theme=transparent" height="180em" alt="Stats"/> -->
 <!--       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dkmfzf&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8&hide=jupyter%20notebook,css,html,pug,scss" alt="Top Languages"/> -->
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dkmfzf&theme=transparent&exclude=html,CSS,SCSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
-      <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dkmfzf&theme=transparent&exclude=html,CSS,SCSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+<!--       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dkmfzf&theme=transparent&exclude=html,CSS,SCSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/> -->
+<!--       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dkmfzf&theme=transparent&exclude=html,CSS,SCSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/> -->
 <!--       <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dkmfzf&theme=transparent&utcOffset=7.00" height="180em" alt="Time Graph"/> -->
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkmfzf&theme=transparent" alt='Profile'/>
-    </div>
-</div>
+<!--       <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkmfzf&theme=transparent" alt='Profile'/> -->
+<!--     </div> -->
+<!-- </div> -->
 
 ![look](https://user-images.githubusercontent.com/96011603/211858547-fafd92a4-b773-4c46-94d8-518ff3ce5036.gif)
 </div>
