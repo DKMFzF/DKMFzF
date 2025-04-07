@@ -35,15 +35,20 @@
         <a href="https://prettier.io/" target="_blank"><img src="https://github.com/prettier/prettier-logo/blob/master/images/prettier-icon-dark.png?raw=true" alt="prettier" height="28"/></a>
         <a href="https://stylelint.io/" target="_blank"><img src="./Stylelint.png" alt="stylelint" height="28"/></a>
     </p> -->
-    <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
+<!--     <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2> -->
     <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/>
+<!--         <img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/> -->
+      <picture>
+<!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
+          <source srcset="soft-skills-dark.png" media="(prefers-color-scheme: light)">
+          <img src="soft-skills.png" alt="Logo">
+        </picture>
     </p>
-    <h2 align="center">Other skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
-    <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,postgres,redis,figma" height="60"/>
+<!--     <h2 align="center">Other skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2> -->
+<!--     <p align="center"> -->
+<!--         <img src="https://skillicons.dev/icons?i=nodejs,express,docker,postman,postgres,redis" height="60"/> -->
 <!--       kafka -->
-    </p>
+<!--     </p> -->
 <!--     <h2 align="center"> </h2> -->
       <p align="center">
 <!--         <img src="soft-skills.png"/> -->
