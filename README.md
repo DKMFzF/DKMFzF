@@ -40,8 +40,8 @@
 <!--         <img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/> -->
       <picture>
 <!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
-          <source srcset="soft-skills-dark.png" media="(prefers-color-scheme: light)">
-          <img src="soft-skills.png" alt="Logo">
+          <source srcset="backend-stack-dark.png" media="(prefers-color-scheme: light)">
+          <img src="backend-stack.png" alt="Logo">
         </picture>
     </p>
 <!--     <h2 align="center">Other skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2> -->
