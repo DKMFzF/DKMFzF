@@ -21,7 +21,7 @@
 <!--         <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,scss,react,webpack" height="60"/> -->
       <picture>
 <!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
-          <source srcset="soft-skills-dark.png" media="(prefers-color-scheme: light)">
+          <source srcset="frontend-stack-dark.png" media="(prefers-color-scheme: light)">
           <img src="frontend-stack.png" alt="Logo">
         </picture>
     </p>
