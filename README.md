@@ -16,14 +16,15 @@
 </div>
 
 <div>
-    <h2 align="center">Frontend-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2>
+<!--     <h2 align="center">Frontend-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2> -->
     <p align="center">
 <!--         <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,scss,react,webpack" height="60"/> -->
       <picture>
 <!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
-          <source srcset="soft-skills-dark.png" media="(prefers-color-scheme: light)">
-          <img src="frontend-stack.png" alt="Logo">
+<!--           <source srcset="soft-skills-dark.png" media="(prefers-color-scheme: light)"> -->
+<!--           <img src="frontend-stack.png" alt="Logo" style="width:50%;"> -->
         </picture>
+      <img src="frontend-stack.png" alt="Logo" style="width:80%;">
     </p>
 <!--     <h6 align="center">Sub-Main frontend skills</h6>
     <p align="center">
@@ -44,7 +45,7 @@
         <img src="https://skillicons.dev/icons?i=git,github,docker,postman,postgres,redis,figma" height="60"/>
 <!--       kafka -->
     </p>
-    <h2 align="center"> </h2>
+<!--     <h2 align="center"> </h2> -->
       <p align="center">
 <!--         <img src="soft-skills.png"/> -->
         <picture>
