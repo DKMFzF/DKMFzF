@@ -22,7 +22,7 @@
       <picture>
 <!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
           <source srcset="frontend-stack-dark.png" media="(prefers-color-scheme: light)">
-          <img src="frontend-stack.png" alt="Logo">
+          <img src="frontend-stack" alt="Logo">
         </picture>
     </p>
 <!--     <h6 align="center">Sub-Main frontend skills</h6>
