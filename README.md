@@ -12,6 +12,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:flim.win@yandex.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=plastic)](https://t.me/DKMFzF)
 [![VK](https://img.shields.io/badge/-VK-0077FF?logo=vk&logoColor=white&style=plastic)](https://vk.com/dkmfzf)
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dkmfzf&theme=transparent&exclude=html,CSS,SCSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
 
 <div>
   
