@@ -6,7 +6,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸&fontSize=52) -->
 
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Node.js%20Developer&fontSize=52)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Node.js%20Developer&fontSize=52)  
 
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=dkmfzf&label=Profile%20views&color=green&style=plastic)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:flim.win@yandex.ru)
