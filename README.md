@@ -8,11 +8,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Node.js%20Developer&fontSize=52)  
 
-![Просмотры профиля](https://komarev.com/ghpvc/?username=dkmfzf&label=Profile%20views&color=green&style=plastic)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:flim.win@yandex.ru)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=plastic)](https://t.me/DKMFzF)
-[![VK](https://img.shields.io/badge/-VK-0077FF?logo=vk&logoColor=white&style=plastic)](https://vk.com/dkmfzf)
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dkmfzf&theme=transparent&exclude=html,CSS,SCSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
 
 <div>
   
@@ -75,6 +70,15 @@
 <!--       <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkmfzf&theme=transparent" alt='Profile'/> -->
 <!--     </div> -->
 <!-- </div> -->
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dkmfzf&theme=transparent&exclude=html,CSS,SCSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dkmfzf&theme=transparent&utcOffset=7.00" height="180em" alt="Time Graph"/>
+
+
+![Просмотры профиля](https://komarev.com/ghpvc/?username=dkmfzf&label=Profile%20views&color=green&style=plastic)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:flim.win@yandex.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=plastic)](https://t.me/DKMFzF)
+[![VK](https://img.shields.io/badge/-VK-0077FF?logo=vk&logoColor=white&style=plastic)](https://vk.com/dkmfzf)
 
 ![look](https://user-images.githubusercontent.com/96011603/211858547-fafd92a4-b773-4c46-94d8-518ff3ce5036.gif)
 </div>
