@@ -79,7 +79,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:flim.win@yandex.ru)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=plastic)](https://t.me/DKMFzF)
 [![VK](https://img.shields.io/badge/-VK-0077FF?logo=vk&logoColor=white&style=plastic)](https://vk.com/dkmfzf)
-[![Resume](https://img.shields.io/badge/-Resume-4285F4?logo=google-drive&logoColor=white&style=plastic)](./my-resume.pdf)
+[![My Resume](https://img.shields.io/badge/-Resume-4285F4?logo=google-drive&logoColor=white&style=plastic)](./my-resume.pdf)
 
 ![look](https://user-images.githubusercontent.com/96011603/211858547-fafd92a4-b773-4c46-94d8-518ff3ce5036.gif)
 </div>
