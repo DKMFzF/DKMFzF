@@ -34,28 +34,28 @@
         <a href="https://stylelint.io/" target="_blank"><img src="./Stylelint.png" alt="stylelint" height="28"/></a>
     </p> -->
 <!--     <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2> -->
-    <p align="center">
+<!--     <p align="center"> -->
 <!--         <img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/> -->
-      <picture>
+<!--       <picture> -->
 <!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
-          <source srcset="backend-stack-dark.png" media="(prefers-color-scheme: light)">
-          <img src="backend-stack.png" alt="Logo">
-        </picture>
-    </p>
+<!--           <source srcset="backend-stack-dark.png" media="(prefers-color-scheme: light)"> -->
+<!--           <img src="backend-stack-test.png" alt="Logo"> -->
+<!--         </picture> -->
+<!--     </p> -->
 <!--     <h2 align="center">Other skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2> -->
 <!--     <p align="center"> -->
 <!--         <img src="https://skillicons.dev/icons?i=nodejs,express,docker,postman,postgres,redis" height="60"/> -->
 <!--       kafka -->
 <!--     </p> -->
 <!--     <h2 align="center"> </h2> -->
-      <p align="center">
+<!--       <p align="center"> -->
 <!--         <img src="soft-skills.png"/> -->
-        <picture>
+<!--         <picture> -->
 <!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
-          <source srcset="soft-skills-dark.png" media="(prefers-color-scheme: light)">
-          <img src="soft-skills.png" alt="Logo">
-        </picture>
-      </p>
+<!--           <source srcset="soft-skills-dark.png" media="(prefers-color-scheme: light)"> -->
+<!--           <img src="soft-skills.png" alt="Logo"> -->
+<!--         </picture> -->
+<!--       </p> -->
 </div>
 
 <!-- <h2 aria-hidden="true" align="center" style="margin=0; paddong=0"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" aria-hidden="true"></h2> -->
@@ -73,7 +73,6 @@
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dkmfzf&theme=transparent&exclude=html,CSS,SCSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dkmfzf&theme=transparent&utcOffset=7.00" height="180em" alt="Time Graph"/>
-
 
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=dkmfzf&label=Profile%20views&color=green&style=plastic)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:flim.win@yandex.ru)
