@@ -44,11 +44,11 @@
 <!--     <h2 align="center">Frontend-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2> -->
     <p align="center">
 <!--         <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,scss,react,webpack" height="60"/> -->
-      <picture>
+<!--       <picture> -->
 <!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
-          <source srcset="frontend-stack-dark.png" media="(prefers-color-scheme: light)">
+<!--           <source srcset="frontend-stack-dark.png" media="(prefers-color-scheme: light)">
           <img src="frontend-stack.png" alt="Logo">
-        </picture>
+        </picture> -->
     </p>
 <!--     <h6 align="center">Sub-Main frontend skills</h6>
     <p align="center">
@@ -63,11 +63,11 @@
 <!--     <h2 align="center">Backand-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2> -->
 <!--     <p align="center"> -->
 <!--         <img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/> -->
-      <picture>
+<!--       <picture> -->
 <!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
-          <source srcset="backend-stack-dark.png" media="(prefers-color-scheme: light)">
+<!--           <source srcset="backend-stack-dark.png" media="(prefers-color-scheme: light)">
           <img src="backend-stack-test.png" alt="Logo">
-        </picture>
+        </picture> -->
 <!--     </p> -->
 <!--     <h2 align="center">Other skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2> -->
 <!--     <p align="center"> -->
