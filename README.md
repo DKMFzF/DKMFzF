@@ -36,9 +36,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Node.js%20Developer&fontSize=52)  -->
 
 
-<div>
-  
-</div>
 
 <div>
 <!--     <h2 align="center">Frontend-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2> -->
