@@ -37,16 +37,16 @@
 
 
 
-<div>
+<!-- <div> -->
 <!--     <h2 align="center">Frontend-stack main<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" aria-hidden="true"> </h2> -->
-    <p align="center">
+<!--     <p align="center"> -->
 <!--         <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,scss,react,webpack" height="60"/> -->
 <!--       <picture> -->
 <!--           <source srcset="soft-skills.png" media="(prefers-color-scheme: dark)"> -->
 <!--           <source srcset="frontend-stack-dark.png" media="(prefers-color-scheme: light)">
           <img src="frontend-stack.png" alt="Logo">
         </picture> -->
-    </p>
+<!--     </p> -->
 <!--     <h6 align="center">Sub-Main frontend skills</h6>
     <p align="center">
         <img src="https://skillicons.dev/icons?i=vite,gulp,threejs,tailwind,bootstrap,figma,babel" height="28"/>
@@ -80,7 +80,7 @@
 <!--           <img src="soft-skills.png" alt="Logo"> -->
 <!--         </picture> -->
 <!--       </p> -->
-</div>
+<!-- </div> -->
 
 <!-- <h2 aria-hidden="true" align="center" style="margin=0; paddong=0"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My GitHub Stats <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" aria-hidden="true"></h2> -->
 
