@@ -99,6 +99,7 @@
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dkmfzf&theme=transparent&exclude=html,CSS,SCSS,js,Jupyter%20Notebook,python,shell" height="180em" alt="Most Repo Languages"/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dkmfzf&theme=transparent" height="180em" alt="Stats"/>
+<!-- <img align="center" src="https://leetcard.jacoblin.cool/dkmfzfkir?animation=false" height="50em" alt="Stats"/> -->
 
 ![Просмотры профиля](https://komarev.com/ghpvc/?username=dkmfzf&label=Profile%20views&color=green&style=plastic)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=plastic)](mailto:flim.win@yandex.ru)
