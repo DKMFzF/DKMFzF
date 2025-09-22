@@ -1,7 +1,7 @@
 <div align="center">
   
-<img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" width="80" wi align="left"> <br>
-![look](https://user-images.githubusercontent.com/96011603/211858547-fafd92a4-b773-4c46-94d8-518ff3ce5036.gif)
+<!-- <img src="https://media1.giphy.com/media/OfgFXNVi8gnEXvbske/giphy.gif" height="40" width="80" wi align="left"> <br> -->
+<!-- ![look](https://user-images.githubusercontent.com/96011603/211858547-fafd92a4-b773-4c46-94d8-518ff3ce5036.gif)-->
 
 <!-- кто прочитал тот гей! / whoever read it is gay! -->
 <!--
@@ -31,7 +31,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⣄⣾⠋⠘⣧⡀⢰⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠈⠛⠋⠀⠀⠀⠀⠀⠀⠀--> 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸&fontSize=52)
+<!--  ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=°º¤ø,¸¸,ø¤º°`°º¤ø,¸,ø¤°º¤ø,¸¸,ø¤º°`°º¤ø,¸&fontSize=52) -->
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Node.js%20Developer&fontSize=52)  -->
 
